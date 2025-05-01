@@ -35,8 +35,8 @@ Clone the repository:
 
 
 ```bash
-git clone https://github.com/yourusername/cli-calculator.git
-cd cli-calculator
+git clone https://github.com/nitinkumar30/python-cli-calculator.git
+cd python-cli-calculator
 ```
 
 ---
