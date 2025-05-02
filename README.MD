@@ -2,7 +2,7 @@
 
 A simple command-line calculator app built with Python that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/python-cli-calculator/.github%2Fworkflows%2Frun_tests.yml?branch=master&style=plastic)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/python-cli-calculator/.github%2Fworkflows%2Frun_tests.yml?branch=main&style=plastic)
 ---
 
 ## 🚀 Features
